@@ -1,6 +1,6 @@
 # Условия задач
 
-## Разминка
+## Разминка. 07.09.2024
 
 ### A
 ![image](https://github.com/user-attachments/assets/6b2b8f64-8bda-4935-be26-89215441de3f)

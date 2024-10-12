@@ -19,3 +19,9 @@
 ## E. Дипломы
 
 ![image](https://github.com/user-attachments/assets/c426ed0a-8ff9-4553-9820-42d1e6d0d8c8)
+
+## F. Очень лёгкая задача
+![image](https://github.com/user-attachments/assets/28da9c5b-a7ff-408b-9369-dffb8be0f849)
+
+## G. Коровы - в стойло
+![image](https://github.com/user-attachments/assets/93c3a5f4-5e1f-4b0f-b1b4-6fca2100372d)

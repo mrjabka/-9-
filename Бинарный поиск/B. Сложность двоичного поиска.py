@@ -1,9 +1,13 @@
-import math
+def min_questions(n):
+    questions = 0
+    range_size = 1
+
+    while range_size < n:
+        questions += 1
+        range_size *= 2
+
+    return questions
 
 
-def min_questions(N):
-    return math.ceil(math.log2(N))
-
-
-N = int(input().strip())
-print(min_questions(N))
+n = int(input().strip())
+print(min_questions(n))

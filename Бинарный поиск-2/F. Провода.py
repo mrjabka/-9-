@@ -1,12 +1,8 @@
-import numpy as np
-
 n, k = map(int, input().split())
 l = [int(input()) for i in range(n)]
 
 
 def cut(a, b, length):
-
-    length = np.array(length)
 
     left = 1
     right = max(length)

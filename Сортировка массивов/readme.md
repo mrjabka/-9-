@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/0647a980-78e3-4da6-bbcb-203e0e571798)
 
-## C. Вставка числами
+## C. Вставка числа
 
 ![image](https://github.com/user-attachments/assets/3153ca80-699d-43fc-9d90-7eb560fec829)
 

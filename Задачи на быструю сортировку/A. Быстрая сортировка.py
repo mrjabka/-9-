@@ -1,20 +1,18 @@
-size = int(input())
-massive = list(map(int, input().split()[:size]))
-
-
-def quick_sort(arr):
-
+def quicksort(arr):
     if len(arr) <= 1:
         return arr
-
-    pivot = arr[len(arr) // 2]
-    left = [x for x in arr if x < pivot]
-    middle = [x for x in arr if x == pivot]
-    right = [x for x in arr if x > pivot]
-
-    return quick_sort(left) + middle + quick_sort(right)
+    else:
+        pivot = arr[len(arr) // 2]
+        left = [x for x in arr if x < pivot]
+        middle = [x for x in arr if x == pivot]
+        right = [x for x in arr if x > pivot]
+        return quicksort(left) + middle + quicksort(right)
 
 
 if __name__ == '__main__':
-    print(*quick_sort(massive))
+    n = int(input())
+    array = list(map(int, input().split()[:n]))
 
+    sorted_array = quicksort(array)
+
+    print(" ".join(map(str, sorted_array)))

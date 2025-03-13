@@ -16,10 +16,14 @@
 
 ![image](https://github.com/user-attachments/assets/104a692a-5bec-4fb7-83e4-263968ef5898)
 
-## E.
+## E. Регулярный граф
 
-## F.
+![image](https://github.com/user-attachments/assets/1ad46fa9-b131-420c-830d-c012f28d4c87)
 
-## G.
+## F. Полуполный граф 
 
-## H.
+![image](https://github.com/user-attachments/assets/be7d109e-143b-4321-842d-f4ab2fddfba3)
+
+## G. Транзитивность неориентированного графа
+
+## H. Транзитивность ориентированного графа

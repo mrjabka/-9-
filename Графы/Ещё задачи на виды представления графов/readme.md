@@ -12,7 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/6ac7ff03-c6f7-4f14-8d49-25125ea16a0f)
 
-## D.
+## D. Истоки и стоки
+
+![image](https://github.com/user-attachments/assets/104a692a-5bec-4fb7-83e4-263968ef5898)
 
 ## E.
 

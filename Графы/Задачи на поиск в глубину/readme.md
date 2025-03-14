@@ -12,12 +12,16 @@
 
 ![image](https://github.com/user-attachments/assets/38c1752b-69e9-4600-9f1a-7169b4c4580c)
 
-## D.
+## D. Банкет
 
-## E.
+![image](https://github.com/user-attachments/assets/55167a80-eb16-40b2-9252-417e15285843)
 
-## F.
+## E. Удаление клеток
 
-## G.
+![image](https://github.com/user-attachments/assets/6a2f097c-53de-4134-8b91-d49b2bece9a2)
 
-## H.
+## F. Получи дерево
+
+## G. Площадь комнаты
+
+## H. Кодовый замок - 2

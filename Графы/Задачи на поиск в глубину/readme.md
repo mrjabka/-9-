@@ -6,7 +6,11 @@
 
 ## B. Есть ли цикл?
 
-## C.
+![image](https://github.com/user-attachments/assets/dd27b238-df7d-4bff-abf5-8232c6044a2e)
+
+## C. Компоненты связности
+
+![image](https://github.com/user-attachments/assets/38c1752b-69e9-4600-9f1a-7169b4c4580c)
 
 ## D.
 

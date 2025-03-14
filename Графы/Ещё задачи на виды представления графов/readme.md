@@ -26,4 +26,8 @@
 
 ## G. Транзитивность неориентированного графа
 
+![image](https://github.com/user-attachments/assets/ff93c936-ea61-47f5-b522-38f6049070cd)
+
 ## H. Транзитивность ориентированного графа
+
+![image](https://github.com/user-attachments/assets/bc94f198-85b2-447d-9ae7-16b6c442e0f0)

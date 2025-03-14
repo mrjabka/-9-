@@ -29,3 +29,5 @@
 ![image](https://github.com/user-attachments/assets/427263f4-0756-4023-830f-d494b116237e)
 
 ## H. Кодовый замок - 2
+
+![image](https://github.com/user-attachments/assets/c3ad9ed4-5375-4eba-8512-77159626539a)

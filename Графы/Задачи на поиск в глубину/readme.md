@@ -22,6 +22,10 @@
 
 ## F. Получи дерево
 
+![image](https://github.com/user-attachments/assets/afcad777-dfdd-4f92-b296-b49d2ab08a67)
+
 ## G. Площадь комнаты
+
+![image](https://github.com/user-attachments/assets/427263f4-0756-4023-830f-d494b116237e)
 
 ## H. Кодовый замок - 2
